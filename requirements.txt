@@ -1,6 +1,2 @@
-Flask==3.0.0
-Werkzeug==3.0.1
-dicttoxml==1.7.16
-pandas==2.2.0
-python-magic-bin==0.4.14
-sqlite3-to-mysql==1.6.4
+Flask
+Werkzeug
